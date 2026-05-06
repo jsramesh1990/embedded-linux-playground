@@ -16,7 +16,7 @@ This repository serves as a knowledge index linking topic-wise repositories cont
 ## Common
 
 ### Memory
-- Memory Management
+- [Memory Management](https://github.com/jsramesh1990/memory-management-project)
 - Buffers
 - Ring Buffer
 - FIFO
