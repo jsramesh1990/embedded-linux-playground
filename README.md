@@ -22,7 +22,7 @@ This repository serves as a knowledge index linking topic-wise repositories cont
 - [FIFO](https://github.com/jsramesh1990/memory-allocator-deep-dive/tree/main/FIFO)
 
 ### Storage
-- Filesystems
+- [Filesystems](https://github.com/jsramesh1990/memory-allocator-deep-dive/tree/main/Filesystems)
 - Databases
 - Flash Memory
 
