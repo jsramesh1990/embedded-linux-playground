@@ -1,5 +1,3 @@
-# Embedded-Systems-Knowledge
-This repository serves as a knowledge index linking topic-wise repositories containing: - theory - implementations - notes - examples - interview preparation resources
 # Embedded Systems Knowledge
 
 Centralized repository for Embedded Systems, Firmware Development, and Interview Preparation.
